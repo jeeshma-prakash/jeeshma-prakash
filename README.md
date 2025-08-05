@@ -22,6 +22,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/arsentieva/arsentieva/blob/main/assets/matrix.svg" alt="Matrix Rain" />
+</p>
+
+
 ### 💡 Current Focus
 
 - 🚀 Mastering `React`, `GSAP`, and `Responsive UI Design`
